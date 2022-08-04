@@ -1,4 +1,3 @@
-
 while True:
     fraction = input('Fraction: ')
 
